@@ -3,7 +3,7 @@
 This repo contains approaches to different aspects of the data acquisition of an
 IP/MPLS backbone network. 
 
-*Note this code may be far from usuable.* You have been warned.
+**Note this code may be far from usable.** You have been warned.
 
 ## Main ideas that caused this project to start
 

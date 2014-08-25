@@ -50,7 +50,7 @@ public class IPUtils {
     public static String longToIp(Long longValue) {
         return longToIp(longValue.longValue());
     }
-    
+
     public static String intArrayToIp(final int[]array, final int offset) {
         String returnValue =
             String.valueOf(array[offset]) + "." +
